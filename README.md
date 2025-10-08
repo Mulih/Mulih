@@ -24,8 +24,8 @@ I'm a **Software Engineer** specializing in **backend development**, with a stro
 
 ### **Frameworks & Libraries**
 
-- **Backend**: Express.js, Django, Flask
-- **Frontend**: React.js, Vanilla JavaScript
+- **Backend**: Express.js, Django, Flask, Golang
+- **Frontend**: React.js, Typescript, streamlit
 - **DevOps**: Docker, Kubernetes, CI/CD tools
 
 ### **Databases**
