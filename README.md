@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mulih!
 
-I'm a **Software Engineer** specializing in **backend development**, with a strong focus on building scalable, secure, and efficient systems. I graduated from the **ALX Software Engineering program**, earning a certification in software engineering, and I am currently pursuing a degree in **Cybersecurity and Digital Forensics**. My passion lies in developing impactful applications and continuously expanding my knowledge in technology and security.
+I'm a **Software Engineer** specializing in **backend development**, with a strong focus on building scalable, secure, and efficient systems. I graduated from the **ALX Software Engineering program**, earning a certification in software engineering, and I am currently pursuing a degree in **Computer Science**. My passion lies in developing impactful applications and continuously expanding my knowledge in technology and security.
 
 ---
 
