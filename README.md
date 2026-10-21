@@ -1,111 +1,53 @@
-# 👋 Hello, I'm Mulih!
+# Alvin Muli Kyalo
 
-I'm a **Software Engineer** specializing in **backend development**, with a strong focus on building scalable, secure, and efficient systems. I graduated from the **ALX Software Engineering program**, earning a certification in software engineering, and I am currently pursuing a degree in **Computer Science**. My passion lies in developing impactful applications and continuously expanding my knowledge in technology and security.
+Backend software engineer in Nairobi, Kenya. I build the API and database layer for mobile apps with TypeScript, Express, PostgreSQL and Prisma.
 
----
+[LinkedIn](https://www.linkedin.com/in/alvin-kyalo) · [Email](mailto:alvinmuli@gasmlangoni.co.ke)
 
-## 💻 What I Bring to the Table
+## Currently
 
-- **Backend Expertise**: Creating APIs, managing databases, and optimizing server-side operations.
-- **Problem-Solving Skills**: Tackling complex challenges using creative and efficient solutions.
-- **Full-Stack Development**: Combining backend systems with intuitive frontend designs.
-- **Cybersecurity Awareness**: Implementing secure practices and exploring digital forensics.
+- Software Engineer at Gas Mlangoni, an LPG cylinder ordering platform. I designed the PostgreSQL schema, the request validation layer, the delivery routing and the pricing logic, and I tune database performance.
+- Studying for a BSc in Computer Science at the Open University of Kenya (expected 2027).
 
----
+## Featured projects
 
-## 🛠️ Technical Skills
+### [Gas Mlangoni](https://github.com/Mulih/gas-mlangoni)
 
-### **Programming Languages**
+Backend service for an LPG cylinder ordering platform in Kenya. It manages customers and their addresses, vendors with EPRA permit status, inventory, riders, orders and cylinder prices. The repository also holds the mobile and rider apps.
 
-- **Python**: For scripting, web development (Django), and automation.
-- **JavaScript (Node.js)**: Building scalable server-side applications.
-- **C**: Strong foundational knowledge from solving algorithms and systems-level programming.
-- **Bash**: Writing efficient scripts for task automation.
+- Stack: TypeScript, Express, Prisma, PostgreSQL, Zod
+- Request bodies are validated with Zod and failures return structured error details.
 
-### **Frameworks & Libraries**
+### [AfricAutoTrade](https://github.com/Mulih/AfricAutoTrade)
 
-- **Backend**: Express.js, Django, Flask, Golang
-- **Frontend**: React.js, Typescript, streamlit
-- **DevOps**: Docker, Kubernetes, CI/CD tools
+Python trading bot for cryptocurrency markets. A RandomForestClassifier model uses order book analytics as features, and a FastAPI server exposes start, stop, status, settings and metrics endpoints.
 
-### **Databases**
-- **Relational**: MySQL
-- **NoSQL**: MongoDB, Redis
-
----
-
-## 🌟 Featured Projects
+- Stack: Python, FastAPI, PostgreSQL, Docker Compose, GitHub Actions
+- Supports paper and live trading on Binance, with unit tests.
 
 ### [UzimaPath](https://github.com/Mulih/UzimaPath)
 
-A health and fitness tracking application designed to help users achieve their wellness goals:
-- **Frontend**: React.js for a responsive and interactive user interface.
-- **Backend**: Node.js with Express.js for API development.
-- **Database**: MongoDB for managing data.
-- **Features**: User authentication, goal-setting, exercise logging, progress tracking with charts.
+Health and fitness tracker with exercise logging, goal setting and progress charts. [Demo video](https://youtu.be/RKr-L1DkSng).
 
----
+- Stack: MongoDB with Mongoose, Express, React, Node.js, JWT authentication
+- Unit tests for the API controllers.
 
-### [Deno Chat Application](https://github.com/Mulih/DenoChatApp)
+## Skills
 
-A real-time chat application built with cutting-edge technologies:
-- **Technology**: Deno runtime and Oak framework.
-- **Features**: WebSocket-powered real-time messaging.
-- **Focus**: Learning modern runtime environments and exploring real-time communication.
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Rust, Java, C, Bash |
+| Backend | Node.js, Express.js, FastAPI, Prisma ORM, Zod |
+| Frontend and mobile | React, React Native, Expo |
+| Databases | PostgreSQL, MongoDB, MySQL, Redis |
+| Infrastructure and tools | Linux, Docker, Git, GitHub Actions, CI/CD pipelines, Wireshark, New Relic |
 
----
+## Education
 
-### [Portfolio Website](https://github.com/Mulih/Portfolio)
+- BSc Computer Science, Open University of Kenya (expected 2027)
+- Software Engineering Certificate, ALX Africa (2023 to September 2024). Coursework repositories in C and Shell are in my repository list.
 
-An elegant portfolio showcasing my work, skills, and certifications:
-- **Frontend**: HTML, CSS, JavaScript.
-- **Design**: Fully responsive and mobile-friendly.
-- **Purpose**: Highlight professional achievements and projects.
+## Contact
 
----
-
-### [CS50 Solutions](https://github.com/Mulih/CS50-Solutions)
-
-A complete repository of solutions for Harvard's CS50 course:
-- **Challenges**: Focus on algorithms, data structures, and systems design.
-- **Purpose**: Demonstrate a solid grasp of computer science fundamentals.
-
----
-
-## 🎓 Education
-
-- **ALX Software Engineering Program** (Certified, Completed): Gained expertise in software engineering principles and hands-on development.
-- **Bachelor's in Cybersecurity and Digital Forensics** (Ongoing): Expanding knowledge in cybersecurity, secure coding, and digital investigations.
-
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alvin-kyalo)
-- 📧 [Email Me](mailto:almulih@yahoo.com)
-- 🖥️ [GitHub](https://github.com/Mulih)
-
----
-
-## ✨ Goals & Interests
-
-- Explore **DevOps**: Enhancing skills in Docker, Kubernetes, and CI/CD pipelines.
-- Contribute to **Open Source**: Collaborating on impactful community projects.
-- Learn **Advanced Security Practices**: Focused on ethical hacking and incident response.
-- Develop **AI/ML-Powered Applications**: Combining software engineering with cutting-edge AI solutions.
-
----
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulih&layout=compact&theme=dracula)
-
----
-
-## Github Stats
-
-![Mulih's Github Stats](https://github-readme-stats.vercel.app/api?username=Mulih&show_icons=true&theme=dracula)
-
----
-
-Feel free to reach out for collaborations, open-source contributions, or just to connect!
+Email: mulikyalo1@gmail.com
+LinkedIn: [linkedin.com/in/alvin-kyalo](https://www.linkedin.com/in/alvin-kyalo)
